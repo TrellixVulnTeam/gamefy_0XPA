@@ -1,0 +1,29 @@
+{
+  "name": "gamefy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yveslevi/gamefy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "html",
+    "gamefication"
+  ],
+  "author": "yves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yveslevi/gamefy/issues"
+  },
+  "homepage": "https://github.com/yveslevi/gamefy#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8"
+  }
+}
